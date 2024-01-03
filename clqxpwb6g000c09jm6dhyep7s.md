@@ -1,6 +1,6 @@
 ---
 title: "Crypto payments: 4 benefits and 3 problems"
-datePublished: Wed Jan 03 2024 11:51:08 GMT+0000 (Coordinated Universal Time)
+datePublished: Tue Jun 12 2018 10:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clqxpwb6g000c09jm6dhyep7s
 slug: crypto-payments-4-benefits-and-3-problems
 canonical: https://espeo.eu/blog/crypto-payments-digital-cash/
