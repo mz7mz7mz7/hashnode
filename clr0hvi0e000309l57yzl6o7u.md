@@ -9,4 +9,4 @@ tags: blockchain, blockchain-technology
 
 The presentation I did for the [Girls in Tech Gibraltar](https://girlsintech.org) event in 2017/18.
 
-[https://www.dropbox.com/s/61e6qeyvcbje274/Blockchain%20Presentation%20-%20final.pptx?dl=0](https://www.dropbox.com/s/61e6qeyvcbje274/Blockchain%20Presentation%20-%20final.pptx?dl=0)
+%[https://docs.google.com/presentation/d/1LVwUfTVJTtwtKaHpjI1ByOIiQBiki6jM/edit?usp=sharing&ouid=102276855851715091376&rtpof=true&sd=true]
