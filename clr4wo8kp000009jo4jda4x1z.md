@@ -11,8 +11,11 @@ I have been studying quite a lot about [Account abstraction](https://ethereum.or
 
 * Walk through a thinking process of arriving at the current AA design, showing which problems had to be resolved along the way: [https://www.alchemy.com/blog/account-abstraction](https://www.alchemy.com/blog/account-abstraction)
     
-*   
-    Modularization of AA: [https://blog.rhinestone.wtf/modulekit-deep-dive-ad84ee0797c6](https://blog.rhinestone.wtf/modulekit-deep-dive-ad84ee0797c6)
+* Modularization of AA: [https://blog.rhinestone.wtf/modulekit-deep-dive-ad84ee0797c6](https://blog.rhinestone.wtf/modulekit-deep-dive-ad84ee0797c6)
+    
+* Early experimentation with AA by Visa: [https://usa.visa.com/solutions/crypto/auto-payments-for-self-custodial-wallets.html](https://usa.visa.com/solutions/crypto/auto-payments-for-self-custodial-wallets.html)
+    
+* Panther Protocol explanation of AA: [https://blog.pantherprotocol.io/ethereum-account-abstraction-everything-you-need-to-know/](https://blog.pantherprotocol.io/ethereum-account-abstraction-everything-you-need-to-know/)
     
 * SDK facilitating operations on AA: [https://accountkit.alchemy.com](https://accountkit.alchemy.com/overview/why-account-kit.html)
     
